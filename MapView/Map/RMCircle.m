@@ -29,9 +29,9 @@
 #import "RMProjection.h"
 #import "RMMapView.h"
 
-#define kDefaultLineWidth 2.0
+#define kDefaultLineWidth 0.0
 #define kDefaultLineColor [UIColor blackColor]
-#define kDefaultFillColor [UIColor colorWithRed:0 green:0 blue:1.0 alpha:0.25]
+#define kDefaultFillColor [UIColor colorWithRed:19.0/255.0 green:164.0/255.0 blue:250.0/255.0 alpha:0.25]
 
 @interface RMCircle ()
 
